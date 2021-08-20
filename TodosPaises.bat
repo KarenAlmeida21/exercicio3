@@ -1,2 +1,6 @@
-cd "Todosestados"
+md "TodosPaises"
+cd "TodosPaises"
 md "Brasil" "Argentina" "Colombia" "Peru" "Chile" "Equador" "venezuela" "Bolivia" "Guiana" "Suriname" "Uruguai" "Paraguai" "Guiana Francesa" 
+cd "Brasil"
+md "acre" "alagoas" "amapa" "amazonas" "bahia" "ceara" "Espeirito santo" "goias" "maranhao" "mato grosso" "mato grosso do sul" "minas gerais" "para" "paraiba" "parana"
+"pernanbuco" "piaiu" "rio de janeiro" "rio grande do norte" "rio grande do sul" "rondonia" "roraima" "santa catarina" "sao paulo" "sergipe" "tocantis" "distrito federal"
